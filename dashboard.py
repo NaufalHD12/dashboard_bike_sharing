@@ -185,7 +185,7 @@ ax.axis('equal')
 st.pyplot(fig)
 with st.expander("See explanation"):
     st.write(
-        """ Terdapat perbedaan yang terlampau jauh antara transaksi casual dan registered.
+        """ Pada pie chart di atas, kita bisa melihat bahwa sebagian besar orang yang menyewa sepeda adalah orang yang sudah terdaftar sebagai pelanggan, yang mungkin menunjukkan bahwa mereka adalah pengguna sepeda yang rutin atau loyal. Sedangkan orang yang menyewa sepeda secara kasual adalah orang yang mungkin hanya mencoba sepeda sekali-sekali atau untuk tujuan tertentu.
         """
     )
 
